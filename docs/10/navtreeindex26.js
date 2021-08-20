@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"enum_metadata.html#enum_help_unregisteredUsers":[8,1,245],
 "enum_metadata.html#enum_help_useStoreType":[8,1,45],
 "enum_metadata.html#enum_help_userDashboardItem":[8,1,301],
 "enum_metadata.html#enum_help_userFieldFormats":[8,1,30],
@@ -68,8 +69,8 @@ var NAVTREEINDEX26 =
 "functions_n.html":[13,3,0,13],
 "functions_o.html":[13,3,0,14],
 "functions_p.html":[13,3,0,15],
-"functions_prop.html":[13,3,4],
 "functions_prop.html":[13,3,4,0],
+"functions_prop.html":[13,3,4],
 "functions_prop_b.html":[13,3,4,1],
 "functions_prop_c.html":[13,3,4,2],
 "functions_prop_d.html":[13,3,4,3],
@@ -108,10 +109,10 @@ var NAVTREEINDEX26 =
 "hierarchy.html":[13,2],
 "index.html":[],
 "index.html":[0],
-"index.html#autotoc_md125":[0,0],
-"index.html#autotoc_md126":[0,1],
-"index.html#autotoc_md127":[0,2],
-"index.html#autotoc_md128":[0,3],
+"index.html#autotoc_md124":[0,0],
+"index.html#autotoc_md125":[0,1],
+"index.html#autotoc_md126":[0,2],
+"index.html#autotoc_md127":[0,3],
 "interface_t_r_i_m_1_1_s_d_k_1_1_i_trim_access_control.html":[13,0,0,0,2],
 "interface_t_r_i_m_1_1_s_d_k_1_1_i_trim_access_control.html#a4313dd1225361de3a8e2c92d094df8cf":[13,0,0,0,2,0],
 "interface_t_r_i_m_1_1_s_d_k_1_1_i_trim_access_control_default.html":[13,0,0,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a1decf76e7c44809017a16a353ef70bc9":[12,0,0,0,436,468],
 "namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a1e5779a33297552e97626a490f2f3405":[12,0,0,0,436,169],
 "namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a1ec4d2186636fe5581e3c2d4f2c9987a":[12,0,0,0,436,204],
-"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a1f4dfe8d64cfd866edb944a5ffccae0d":[12,0,0,0,436,244],
-"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a1fc5884251ca9f20a4fd5f79a458f94f":[12,0,0,0,436,1]
+"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a1f4dfe8d64cfd866edb944a5ffccae0d":[12,0,0,0,436,244]
 };

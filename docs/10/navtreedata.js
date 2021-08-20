@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Micro Focus Content Manager SDK 10.0", "index.html", [
     [ "Welcome to the Content Manager SDK Documentation", "index.html", [
-      [ "Overview", "index.html#autotoc_md125", null ],
-      [ "Important", "index.html#autotoc_md126", null ],
-      [ "Older Versions", "index.html#autotoc_md127", null ],
-      [ "More Help", "index.html#autotoc_md128", null ]
+      [ "Overview", "index.html#autotoc_md124", null ],
+      [ "Important", "index.html#autotoc_md125", null ],
+      [ "Older Versions", "index.html#autotoc_md126", null ],
+      [ "More Help", "index.html#autotoc_md127", null ]
     ] ],
     [ "Supporting Information", "md_doc_00____legal.html", [
       [ "Legal Notices", "md_doc_00____legal.html#legal", [
@@ -279,120 +279,117 @@ var NAVTREE =
       ] ],
       [ "Manifests", "zero_office.html#zero_manifests", null ],
       [ "Browser Cookies", "zero_office.html#autotoc_md72", null ],
-      [ "Email Link", "zero_office.html#autotoc_md73", null ],
-      [ "OneDrive file handler", "zero_office.html#autotoc_md74", [
-        [ "Refreshing the file handler", "zero_office.html#refresh_access_token", null ]
-      ] ]
+      [ "Email Link", "zero_office.html#autotoc_md73", null ]
     ] ],
     [ "Programming in Content Manager", "programming_guide.html", [
       [ "Introduction", "programming_guide.html#programming_in", [
         [ "The main objects", "programming_guide.html#main_objects", null ],
         [ "Using the TrimApplication object", "programming_guide.html#application_object", null ],
         [ "Using the Database object", "programming_guide.html#database_object", [
-          [ "Code Example", "programming_guide.html#autotoc_md75", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md74", null ]
         ] ],
         [ "Database pooling", "programming_guide.html#database_pooling", [
-          [ "Code Example", "programming_guide.html#autotoc_md76", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md75", null ]
         ] ]
       ] ],
       [ "Creating and modifying Records", "programming_guide.html#creating_records", [
         [ "Creating new Records", "programming_guide.html#new_record", [
-          [ "Code example", "programming_guide.html#autotoc_md77", null ]
+          [ "Code example", "programming_guide.html#autotoc_md76", null ]
         ] ],
         [ "Setting the Container and Classification", "programming_guide.html#creating_records_container", null ],
         [ "Accessing existing records", "programming_guide.html#access_existing_record", null ],
         [ "Getting a record by record number", "programming_guide.html#get_existing_record", [
-          [ "Code Example", "programming_guide.html#autotoc_md78", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md77", null ]
         ] ],
         [ "Getting a Record by URI", "programming_guide.html#record_by_uri", [
-          [ "Code Example", "programming_guide.html#autotoc_md79", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md78", null ]
         ] ]
       ] ],
       [ "Reading record data", "programming_guide.html#reading_record_data", [
         [ "Basic properties", "programming_guide.html#reading_basic_properties", [
-          [ "Examples of basic readable properties of a record are:", "programming_guide.html#autotoc_md80", null ],
-          [ "Code Example", "programming_guide.html#autotoc_md81", null ]
+          [ "Examples of basic readable properties of a record are:", "programming_guide.html#autotoc_md79", null ],
+          [ "Code Example", "programming_guide.html#autotoc_md80", null ]
         ] ],
         [ "Accessing related objects", "programming_guide.html#related_objects", [
-          [ "Code Example", "programming_guide.html#autotoc_md82", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md81", null ]
         ] ],
         [ "Accessing record Location information", "programming_guide.html#record_Location_info", [
-          [ "Code Example", "programming_guide.html#autotoc_md83", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md82", null ]
         ] ]
       ] ],
       [ "Updating records", "programming_guide.html#updating_records", [
         [ "Modifying properties", "programming_guide.html#modifying_properties", [
-          [ "Code Example", "programming_guide.html#autotoc_md84", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md83", null ]
         ] ],
         [ "Calling update methods", "programming_guide.html#update_methods", [
-          [ "Code Example", "programming_guide.html#autotoc_md85", null ],
-          [ "Code Example", "programming_guide.html#autotoc_md86", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md84", null ],
+          [ "Code Example", "programming_guide.html#autotoc_md85", null ]
         ] ],
         [ "Updating properties using SetProperty", "programming_guide.html#updating_properties", [
-          [ "Code Example", "programming_guide.html#autotoc_md87", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md86", null ]
         ] ],
         [ "User Defined Fields", "programming_guide.html#update_user_defined_fields", [
-          [ "Code Example (GetFieldValue())", "programming_guide.html#autotoc_md88", null ],
-          [ "Code Example (SetFieldValue())", "programming_guide.html#autotoc_md89", null ]
+          [ "Code Example (GetFieldValue())", "programming_guide.html#autotoc_md87", null ],
+          [ "Code Example (SetFieldValue())", "programming_guide.html#autotoc_md88", null ]
         ] ]
       ] ],
       [ "Verifying and error trapping", "programming_guide.html#Verifying_and_error_trapping", [
         [ "The Verify() method", "programming_guide.html#The_Verify_method", [
-          [ "Code Example", "programming_guide.html#autotoc_md90", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md89", null ]
         ] ],
         [ "The Verified property", "programming_guide.html#The_Verified_property", null ],
         [ "Trapping run-time errors", "programming_guide.html#Trapping_run-time_errors", null ],
         [ "Saving the record to the database", "programming_guide.html#Saving_the_record_to_the_database", null ]
       ] ],
       [ "New records and electronic documents", "programming_guide.html#New_records_and_electronic_documents", [
-        [ "Creating a container file", "programming_guide.html#autotoc_md91", null ],
+        [ "Creating a container file", "programming_guide.html#autotoc_md90", null ],
         [ "Creating a record of a given type", "programming_guide.html#Creating_a_record_of_a_given_type", null ],
         [ "Controlled and free text titling", "programming_guide.html#Controlled_and_free_text_titling", [
-          [ "Code Example", "programming_guide.html#autotoc_md92", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md91", null ]
         ] ],
         [ "Security Levels and Caveats", "programming_guide.html#Security_Levels_and_Caveats", [
-          [ "Code Example", "programming_guide.html#autotoc_md93", null ],
-          [ "Code Example", "programming_guide.html#autotoc_md94", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md92", null ],
+          [ "Code Example", "programming_guide.html#autotoc_md93", null ]
         ] ],
         [ "Record Locations", "programming_guide.html#Record_Locations", [
-          [ "Code Example", "programming_guide.html#autotoc_md95", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md94", null ]
         ] ],
         [ "Record Contacts", "programming_guide.html#Record_Contacts", [
-          [ "Code Example", "programming_guide.html#autotoc_md96", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md95", null ]
         ] ],
         [ "Creating a Document", "programming_guide.html#Creating_a_Document", null ],
         [ "Titling and numbering", "programming_guide.html#Titling_and_numbering", [
-          [ "Code Example", "programming_guide.html#autotoc_md97", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md96", null ]
         ] ],
         [ "Assigning to a container", "programming_guide.html#Assigning_to_a_container", [
-          [ "Code Example", "programming_guide.html#autotoc_md98", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md97", null ]
         ] ],
         [ "Attaching an electronic document", "programming_guide.html#Attaching_an_electronic_document", [
-          [ "Code Example", "programming_guide.html#autotoc_md99", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md98", null ]
         ] ],
         [ "Document Author", "programming_guide.html#Document_Author", null ]
       ] ],
       [ "Locations", "programming_guide.html#Locations", [
         [ "Working with Locations", "programming_guide.html#Working_with_Locations", null ],
         [ "Finding a Person by Name", "programming_guide.html#Finding_a_Person_by_Name", [
-          [ "Code Example", "programming_guide.html#autotoc_md100", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md99", null ]
         ] ],
         [ "Creating a new Staff Member", "programming_guide.html#Creating_a_new_Staff_Member", [
+          [ "Code Example", "programming_guide.html#autotoc_md100", null ],
           [ "Code Example", "programming_guide.html#autotoc_md101", null ],
-          [ "Code Example", "programming_guide.html#autotoc_md102", null ],
-          [ "Code Example", "programming_guide.html#autotoc_md103", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md102", null ]
         ] ]
       ] ],
       [ "Searching Content Manager using the .NET SDK", "programming_guide.html#Searching_Content_Manager", [
         [ "Searching for Content Manager objects", "programming_guide.html#Searching_for_Records_Manager_objects", [
-          [ "Code Example", "programming_guide.html#autotoc_md104", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md103", null ]
         ] ],
         [ "Specifying the search criteria", "programming_guide.html#Specifying_the_search_criteria", [
-          [ "Code Example", "programming_guide.html#autotoc_md105", null ],
-          [ "Code Example", "programming_guide.html#autotoc_md106", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md104", null ],
+          [ "Code Example", "programming_guide.html#autotoc_md105", null ]
         ] ],
         [ "Retrieving the results of the search", "programming_guide.html#Retrieving_the_results", [
-          [ "Code Example", "programming_guide.html#autotoc_md107", null ]
+          [ "Code Example", "programming_guide.html#autotoc_md106", null ]
         ] ]
       ] ],
       [ "Other search features", "programming_guide.html#Other_search_features", [
@@ -400,7 +397,7 @@ var NAVTREE =
         [ "Filtering/searching by enum value", "programming_guide.html#enum_filtering", null ],
         [ "Purpose filtering", "programming_guide.html#Purpose_filtering", null ],
         [ "Persisting a search", "programming_guide.html#Persisting_a_search", null ],
-        [ "Item matching", "programming_guide.html#autotoc_md108", null ],
+        [ "Item matching", "programming_guide.html#autotoc_md107", null ],
         [ "Result counts", "programming_guide.html#search_count", null ],
         [ "Sorting by User Defined Fields", "programming_guide.html#sort_by_field", null ]
       ] ],
@@ -418,8 +415,8 @@ var NAVTREE =
     ] ],
     [ "﻿Search Clauses", "sc_using.html", [
       [ "Using Search Clauses", "sc_using.html#search_clause_using", [
-        [ "Interrogating metadata", "sc_using.html#autotoc_md109", [
-          [ "Code Sample", "sc_using.html#autotoc_md110", null ]
+        [ "Interrogating metadata", "sc_using.html#autotoc_md108", [
+          [ "Code Sample", "sc_using.html#autotoc_md109", null ]
         ] ]
       ] ],
       [ "List of search clauses by object type", "sc_using.html#searcg_clauses_by_object_type", [
@@ -487,8 +484,8 @@ var NAVTREE =
     ] ],
     [ "﻿Enum Items", "enum_metadata.html", [
       [ "Using Enums", "enum_metadata.html#enums_using", [
-        [ "Interrogating metadata", "enum_metadata.html#autotoc_md111", [
-          [ "Code Sample", "enum_metadata.html#autotoc_md112", null ]
+        [ "Interrogating metadata", "enum_metadata.html#autotoc_md110", [
+          [ "Code Sample", "enum_metadata.html#autotoc_md111", null ]
         ] ]
       ] ],
       [ "List of enum items by Enum", "enum_metadata.html#enum_item_by_enum_type_type", [
@@ -833,9 +830,9 @@ var NAVTREE =
         [ "Warning", "object_purposes.html#object_purposes_warning", null ],
         [ "Extra information", "object_purposes.html#object_purposes_extra", null ],
         [ "Purpose metadata", "object_purposes.html#object_purposes_metadata", [
-          [ "Code sample - searching", "object_purposes.html#autotoc_md113", null ],
-          [ "Code sample - post search", "object_purposes.html#autotoc_md114", null ],
-          [ "Code sample - object definition", "object_purposes.html#autotoc_md115", null ]
+          [ "Code sample - searching", "object_purposes.html#autotoc_md112", null ],
+          [ "Code sample - post search", "object_purposes.html#autotoc_md113", null ],
+          [ "Code sample - object definition", "object_purposes.html#autotoc_md114", null ]
         ] ]
       ] ],
       [ "List of objects with related purpose enum", "object_purposes.html#object_with_purpose_enum", [
@@ -952,35 +949,35 @@ var NAVTREE =
     [ "Advanced Topics", "advanced_topics.html", [
       [ "Different ways to fetch a TrimMainObject", "advanced_topics.html#ways_To_Fetch_a_TrimMainObject", [
         [ "Object constructor by Name", "advanced_topics.html#fetch_by_constructorand_name", [
-          [ "Code example", "advanced_topics.html#autotoc_md116", null ]
+          [ "Code example", "advanced_topics.html#autotoc_md115", null ]
         ] ],
         [ "Object name properties", "advanced_topics.html#object_name_properties", null ],
         [ "Database find methods", "advanced_topics.html#fetch_by_database", [
-          [ "Code samples", "advanced_topics.html#autotoc_md117", null ]
+          [ "Code samples", "advanced_topics.html#autotoc_md116", null ]
         ] ],
         [ "TrimMainObjectSearch", "advanced_topics.html#fetch_by_search", [
-          [ "Code sample", "advanced_topics.html#autotoc_md118", null ]
+          [ "Code sample", "advanced_topics.html#autotoc_md117", null ]
         ] ]
       ] ],
       [ "Document access alternatives", "advanced_topics.html#fetchDoc", [
         [ "Overview", "advanced_topics.html#doc_access_overview", null ],
         [ "Record.GetDocument()", "advanced_topics.html#getDoc", [
-          [ "Checkout without getting the document", "advanced_topics.html#autotoc_md120", null ]
+          [ "Checkout without getting the document", "advanced_topics.html#autotoc_md119", null ]
         ] ],
         [ "DocumentPathInClientCache", "advanced_topics.html#clientCache", [
-          [ "Example", "advanced_topics.html#autotoc_md121", null ]
+          [ "Example", "advanced_topics.html#autotoc_md120", null ]
         ] ],
         [ "DocumentPathInWGSCache", "advanced_topics.html#wgsCache", [
-          [ "Example", "advanced_topics.html#autotoc_md122", null ]
+          [ "Example", "advanced_topics.html#autotoc_md121", null ]
         ] ],
         [ "DownloadNotifier", "advanced_topics.html#downloadNotifier", [
-          [ "Example", "advanced_topics.html#autotoc_md123", null ]
+          [ "Example", "advanced_topics.html#autotoc_md122", null ]
         ] ],
         [ "Other object types", "advanced_topics.html#dowload_other_object_types", null ]
       ] ],
       [ "Localised strings", "advanced_topics.html#localisedStrings", [
         [ "TrimMessages", "advanced_topics.html#trimMEssages", [
-          [ "Code Sample", "advanced_topics.html#autotoc_md124", null ]
+          [ "Code Sample", "advanced_topics.html#autotoc_md123", null ]
         ] ],
         [ "Captions", "advanced_topics.html#objectCaptions", [
           [ "Enum captions", "advanced_topics.html#enumCaptions", null ],
@@ -1029,53 +1026,53 @@ var NAVTREEINDEX =
 "class_t_r_i_m_1_1_s_d_k_1_1_communication.html#a22c206c21468434c582bc1a5f693f91f",
 "class_t_r_i_m_1_1_s_d_k_1_1_database.html#a22379c99976db31384a637220f35aec8",
 "class_t_r_i_m_1_1_s_d_k_1_1_database.html#aff121ba0fa0ce077713f2db31a25a10e",
-"class_t_r_i_m_1_1_s_d_k_1_1_email_attachment_list_1_1_email_attachment_list_enumerator.html#ae7eaf85a98fa2e3655a345e0f9687977",
-"class_t_r_i_m_1_1_s_d_k_1_1_explorer_category_list.html#a443050a04d857dcf2df837950342b35d",
-"class_t_r_i_m_1_1_s_d_k_1_1_field_definition.html#a86d93bc21cbf03834a3979b30cede794",
-"class_t_r_i_m_1_1_s_d_k_1_1_int_list.html#a43657bb0f7faaddc33a2792e74589dae",
-"class_t_r_i_m_1_1_s_d_k_1_1_location_e_address.html#a28a34f4a7a887c9bc04b133b0efabf86",
-"class_t_r_i_m_1_1_s_d_k_1_1_meeting_type_usual_participant.html",
-"class_t_r_i_m_1_1_s_d_k_1_1_offline_record.html#aad48888bb2ffa18ab6bca8c3ec0fb8bd",
-"class_t_r_i_m_1_1_s_d_k_1_1_property_def.html#a9f9f32baddf0fd042f9e0a3e3b7f1217",
-"class_t_r_i_m_1_1_s_d_k_1_1_record.html#a1237d8ad0668097d174316b15ec18d3a",
-"class_t_r_i_m_1_1_s_d_k_1_1_record.html#abe999e3469011291f6d89f0b1fa89f77",
-"class_t_r_i_m_1_1_s_d_k_1_1_record_location.html#a992b45a7cbc3faad78f5320736b10618",
-"class_t_r_i_m_1_1_s_d_k_1_1_record_type.html#abd08f0eafdd21d9a072c8b389ccd1602",
-"class_t_r_i_m_1_1_s_d_k_1_1_schedule.html#af731112012d455955fb41c18eda30f84",
-"class_t_r_i_m_1_1_s_d_k_1_1_security_caveat.html#aacfda41dcfd21f54ee1ce6de8b7dbd95",
-"class_t_r_i_m_1_1_s_d_k_1_1_string_array.html#ad9dfa2dc80db77e7a53e1301b637a33b",
-"class_t_r_i_m_1_1_s_d_k_1_1_trim_decimal.html#a7ffe82a8c56562e73a37849268b85425",
-"class_t_r_i_m_1_1_s_d_k_1_1_trim_object.html",
-"class_t_r_i_m_1_1_s_d_k_1_1_trim_search_sort_item_list.html#a2f017482b88d06395062d4efecaba56c",
-"class_t_r_i_m_1_1_s_d_k_1_1_wgs_progress_info.html#aea608badc916fed444bd70601cd7b589",
-"enum_metadata.html#enum_help_copyRelationship",
-"enum_metadata.html#enum_help_useStoreType",
-"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a1fed785b25e3565b66363f0f6b1d9050",
-"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a898beba99014d05c0ea6b58a045bd648",
-"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739aefba19e7ca5623e46505e02ff280461a",
-"namespace_t_r_i_m_1_1_s_d_k.html#a08466ea06e2ccb31ab04adb5c300934bad8eb2d3eaaf091c42168abaca5bbae8a",
-"namespace_t_r_i_m_1_1_s_d_k.html#a1aab9a69ed75aa9bbfc361908bc3eb48a28d0edd045e05cf5af64e35ae0c4c6ef",
-"namespace_t_r_i_m_1_1_s_d_k.html#a28c22b416faea10d468bcbecf632f5bfa81d235f5abcba50d83496362bb924f5a",
-"namespace_t_r_i_m_1_1_s_d_k.html#a2e313f89c105683826d40daeeac724bbabfacbbe4e8be8fbc78a60cd9f8e67dd5",
-"namespace_t_r_i_m_1_1_s_d_k.html#a49400c8361c5cf69b67b70c6408ffc85a01cd47f19cbca3337e2f0864d20544c8",
-"namespace_t_r_i_m_1_1_s_d_k.html#a563760e8f42fa60ac770970a65f595f3a95b9b5991f4bc946b3522565c25c208b",
-"namespace_t_r_i_m_1_1_s_d_k.html#a5d3ef5f1ed54efc1530ce7ba740c6cefa745ef75fb0adad4ed69eb0f8a63b2523",
-"namespace_t_r_i_m_1_1_s_d_k.html#a6688581b60dea6b8108117df844d0bc3a2a5a498cc0cac08c3e666b1523df3995",
-"namespace_t_r_i_m_1_1_s_d_k.html#a753711ce2302f9a98b7fbca2c79cb33ba27e43091b24370744a895e35a4a125e1",
-"namespace_t_r_i_m_1_1_s_d_k.html#a753711ce2302f9a98b7fbca2c79cb33ba6e426597d3067f552ca09a38a9b1ded9",
-"namespace_t_r_i_m_1_1_s_d_k.html#a753711ce2302f9a98b7fbca2c79cb33babec00088528f35fcb45b74da36b782c3",
-"namespace_t_r_i_m_1_1_s_d_k.html#a7a184699c8a1eec96fa221cf806d98ce",
-"namespace_t_r_i_m_1_1_s_d_k.html#a8365d4848a1d591c9d414bdcdf180d3fa6139208de65a2cabac0fc4d5284ac3c1",
-"namespace_t_r_i_m_1_1_s_d_k.html#a891acbd75178e4d85907a86e12690a19a26a1486f656832f7eb909311a8464fcf",
-"namespace_t_r_i_m_1_1_s_d_k.html#ab00975e0947347d36dca72d67fdf0b23a7bc719bd1c5d2f63b08fa61fe86a790e",
-"namespace_t_r_i_m_1_1_s_d_k.html#ac2e1094636d082183578afc6e6245abfa222a267cc5778206b253be35ee3ddab5",
-"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a197c014b49db9835eea92332b7dad3aa",
-"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a35726c5acce706cdf75ed4a4afaf98af",
-"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a4ff0c5cb1f441f26b4b70d15628d9efe",
-"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a6a7ef63615e4d5af90e3f05811b0ec24",
-"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a88947aea368e64ed231dfe2df5214dac",
-"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394aa1cfb71a7ab504712afaf71e8eeb2630",
-"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394abdf505dc0c38b6e4afe962e222b9cb6e",
+"class_t_r_i_m_1_1_s_d_k_1_1_email_attachment_list_1_1_email_attachment_list_enumerator.html#a7a350a58a56d29bc6a12e2d33f400d38",
+"class_t_r_i_m_1_1_s_d_k_1_1_explorer_category_list.html#a2c3f234c3dfbbcae4be6d157120cb22c",
+"class_t_r_i_m_1_1_s_d_k_1_1_field_definition.html#a772803c147aab3a1bf2c022b08519287",
+"class_t_r_i_m_1_1_s_d_k_1_1_int_list.html#a3856b2f8b31312d1ce4a65d81cbfdb18",
+"class_t_r_i_m_1_1_s_d_k_1_1_location_e_address.html#a197d8032a6d6d4e46a53ad7b48d460da",
+"class_t_r_i_m_1_1_s_d_k_1_1_meeting_type.html#af4b0a90051152e274aef805378f289ea",
+"class_t_r_i_m_1_1_s_d_k_1_1_offline_record.html#a96c5dd694376b3c0699fb716392e410d",
+"class_t_r_i_m_1_1_s_d_k_1_1_property_def.html#a9891625530200b84dcf0bc053ef89970",
+"class_t_r_i_m_1_1_s_d_k_1_1_record.html#a11efbdccfdb9e4a82c14ab17b88331d7",
+"class_t_r_i_m_1_1_s_d_k_1_1_record.html#abe8156982b3ca14560f1a11a8ea8da3e",
+"class_t_r_i_m_1_1_s_d_k_1_1_record_location.html#a986a756105b4e164947d7a7efb812aa4",
+"class_t_r_i_m_1_1_s_d_k_1_1_record_type.html#abc5681ca0b24d8f0ed504456fe3b1547",
+"class_t_r_i_m_1_1_s_d_k_1_1_schedule.html#af4b5128a721d512ca9bb497d2e50c23b",
+"class_t_r_i_m_1_1_s_d_k_1_1_security_caveat.html#aab8500fef5b8e6655baad3684e5d86ab",
+"class_t_r_i_m_1_1_s_d_k_1_1_string_array.html#ad77baaf10f4abe757583feca23e18e4a",
+"class_t_r_i_m_1_1_s_d_k_1_1_trim_decimal.html#a640c373c7a266bc1588974cd38ca61b8",
+"class_t_r_i_m_1_1_s_d_k_1_1_trim_menu_link_list_1_1_trim_menu_link_list_enumerator.html#ac6b0a441d389e76ec1373630efbf8b73",
+"class_t_r_i_m_1_1_s_d_k_1_1_trim_search_sort_item_list.html#a14c1aac9d21f153644a1f250bde72997",
+"class_t_r_i_m_1_1_s_d_k_1_1_wgs_progress_info.html#ab3bd1131f5d00aaa1ec6abfdd1e1b4ec",
+"enum_metadata.html#enum_help_controlLabelType",
+"enum_metadata.html#enum_help_unregisteredUsers",
+"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a1fc5884251ca9f20a4fd5f79a458f94f",
+"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739a893d031c33d55e59b810596012a04c07",
+"namespace_t_r_i_m_1_1_s_d_k.html#a0193b3b41a16f67d107228cdc4c92739aef8ee04c55eaf3f9e12839ae685b3fb5",
+"namespace_t_r_i_m_1_1_s_d_k.html#a08466ea06e2ccb31ab04adb5c300934baacbadebf2dc4813608b850ccaacbe800",
+"namespace_t_r_i_m_1_1_s_d_k.html#a1aab9a69ed75aa9bbfc361908bc3eb48",
+"namespace_t_r_i_m_1_1_s_d_k.html#a28c22b416faea10d468bcbecf632f5bfa819453534665c162edb2107283f20ff6",
+"namespace_t_r_i_m_1_1_s_d_k.html#a2e313f89c105683826d40daeeac724bbab206a1b4ea1097761f78e8876f6da779",
+"namespace_t_r_i_m_1_1_s_d_k.html#a49400c8361c5cf69b67b70c6408ffc85",
+"namespace_t_r_i_m_1_1_s_d_k.html#a563760e8f42fa60ac770970a65f595f3a73125fe448cc254214d4969b7869beee",
+"namespace_t_r_i_m_1_1_s_d_k.html#a5d3ef5f1ed54efc1530ce7ba740c6cefa7372c74833f8a45813f1ff356736bc2e",
+"namespace_t_r_i_m_1_1_s_d_k.html#a6688581b60dea6b8108117df844d0bc3a10ff8b0e4bca4f39a2c52af626afd0ca",
+"namespace_t_r_i_m_1_1_s_d_k.html#a753711ce2302f9a98b7fbca2c79cb33ba26d824427b505952ed4ac4c19be05a5b",
+"namespace_t_r_i_m_1_1_s_d_k.html#a753711ce2302f9a98b7fbca2c79cb33ba6d8bed39ed6b99d8db51f3f5f2d635ae",
+"namespace_t_r_i_m_1_1_s_d_k.html#a753711ce2302f9a98b7fbca2c79cb33babc0b5be876f8e511fcd4cc6bdbdd5612",
+"namespace_t_r_i_m_1_1_s_d_k.html#a7851db70054f962b98c7523068e5b973af73b999b40e3896ef25bb6d0f7d239fb",
+"namespace_t_r_i_m_1_1_s_d_k.html#a8365d4848a1d591c9d414bdcdf180d3fa60817eed64cf1e26af3d928b7a4c20ec",
+"namespace_t_r_i_m_1_1_s_d_k.html#a88fdad9803136a31cabbe34e628acc57aec5a22291e8c093eb0f92ecdf6d0a328",
+"namespace_t_r_i_m_1_1_s_d_k.html#ab00975e0947347d36dca72d67fdf0b23a745ef75fb0adad4ed69eb0f8a63b2523",
+"namespace_t_r_i_m_1_1_s_d_k.html#ac2d1b9923c582181bdf5c8dbda09e09cab951f3558625fe108c3b556a0f93ee1a",
+"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a195793d49c42ef7b0bc971087e48d30e",
+"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a3511465d762d4e427a767e63edd69bbf",
+"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a4fc6f3259927f9de9a662be23c1524af",
+"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a6a5628b8dadb643252e68214acdb39ff",
+"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394a886b8e5060492dd34ff5cc07c050dc9c",
+"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394aa1ade6f0227f5536d970ec12d72ce5ab",
+"namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394abdb7e017056e10d43292f6e2d981a6cd",
 "namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394adc87c7cea2740ab7b94a28ac7211f2ea",
 "namespace_t_r_i_m_1_1_s_d_k.html#ac89cda7c5437633dc79a88c21e468394af922b40afe67906ab72bb56a15ba1bb7",
 "namespace_t_r_i_m_1_1_s_d_k.html#ad7258f615e4cb35d7f8642a3fe8cd06fab6ec7abeb6ae29cc35a4b47475e12afe",
